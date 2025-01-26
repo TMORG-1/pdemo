@@ -1,0 +1,40 @@
+
+
+<html>
+<head>
+<title> Sample File -1 </title>
+</head>
+<body text="blue">
+<center>
+<h1> Welcome To HTML Applications</h1>
+<h2> Welcome To HTML Applications</h2>
+<h3> Welcome To HTML Applications</h3>
+<h4> Welcome To HTML Applications</h4>
+<h5> Welcome To HTML Applications</h5>
+<h6> Welcome To HTML Applications</h6>
+</center>
+</body>
+</html>
+
+=================================================
+
+<html>
+<head>
+<title>Sample File - 2</title>
+</head>
+<body>
+<center>
+ <b> Welcome To HTML Apps </b> <br/><br/>
+ <i> Welcome To HTML Apps </i> <br/><br/>
+ <u> Welcome To HTML Apps </u> <br/><br/>
+ <strike> Welcome To HTML Apps </strike> <br/><br/>
+ <big> Welcome To HTML Apps </big> <br/><br/>
+ <small> Welcome To HTML Apps </small> <br/><br/>
+ <tt> Welcome To HTML Apps </tt> <br/><br/>
+ (a+b)3 ===> (a+b)<sup>3</sup> <br/><br/>
+  H20   ===> H<sub>2</sub>0 <br/><br/>
+</center>
+<center>
+</center>
+</html>
+

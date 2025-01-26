@@ -1,0 +1,216 @@
+<html>
+<head> 
+<title> Sample File -3 </title>
+</head>
+<body>
+<center>
+<h2>
+To Execute First Page <a href="happ1.html">Click Here</a> <br><br>
+To Execute Second Page <a href="happ2.html" target="_new">Click Here</a> <br><br>
+To Execute Second Page <a href="happ3.html" dowload>Click Here</a> <br><br>
+</h2>
+</center>
+</body>
+</html>
+=====================================
+<html>
+<head> 
+<title> Sample File -4 </title>
+</head>
+<body>
+<marquee><h2> Welcome To Ikya Global </h2></marquee>
+<hr>
+<marquee direction="right"><h2> Welcome To Ikya Global </h2></marquee>
+<hr width=500 color="red" align="left">
+<marquee direction="up" height=500><h2> Welcome To Ikya Global </h2></marquee>
+</body>
+</html>
+=======================================
+<html>
+<body>
+<center>
+<img src="2.jpg" width="300" height="200" align="center" alt="Me and My Friend" title="best Friends"></img>
+</center>
+</body>
+</html>
+==========================================
+<html>
+<body>
+<center>
+<!--
+<h2>
+<abbr title="As Soon As Possible">ASAP</title> <br><br>
+<bdo dir="rtl"> Welcome To bdo html tag </bdo> <br><br>
+<bdo dir="ltr"> Welcome To bdo html tag </bdo> <br><br>
+</h2>
+<p>
+On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks. When you create pictures, charts, or diagrams, they also coordinate with your current document look.</p> <p>You can easily change the formatting of selected text in the document text by choosing a look for the selected text from the Quick Styles gallery on the Home tab. You can also format text directly by using the other controls on the Home tab. Most controls offer a choice of using the look from the current theme or using a format that you specify directly.
+
+</pre>
+-->
+
+<ul> 
+<li>India</li> 
+<li>UK</li> 
+<li>US</li> 
+<li>Canada</li> 
+</ul> 
+<br><br>
+<ol type="i"> 
+<li>India</li> 
+<li>UK</li> 
+<li>US</li> 
+<li>Canada</li> 
+</ol> 
+
+</body>
+</html>
+
+===========================================================
+
+
+<html>
+<body>
+<table align="center" border="1" height="200" width="500">
+<caption><strong> Sample Table </strong></caption>
+<th> H-1 </th>
+<th> H-2 </th>
+<th> H-3 </th>
+<tr>
+<td>ONE</td>
+<td>TWO</td>
+<td> -- </td>
+</tr>
+
+<tr>
+<td>THREE</td>
+<td>FOUR</td>
+<td> -- </td>
+</tr>
+
+<tr>
+<td>Five</td>
+<td>Six</td>
+<td> -- </td>
+</tr>
+
+</table>
+</body>
+</html>
+
+=====================================
+
+--colspan
+
+<html>
+<body>
+
+<table align="center" border="1">
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+            </tr>
+            <tr>
+                <td>Ajay</td>
+                <!-- This cell will take up space on
+                    two rows -->
+                <td rowspan="2">24</td>
+            </tr>
+            <tr>
+                <td>Priya</td>
+            </tr>
+        </table>
+
+</tr>
+======================================================
+
+
+<html>
+<body>
+
+<table align="center" border="1">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sum: $180</td>
+  </tr>
+</table>
+
+</tr>
+
+</table>
+</body>
+</html>
+==================================================
+<html>
+<body>
+<form action="happ1.html" method="post">
+<table border="0" align="center">
+<caption><strong> Registration Form </strong></caption>
+<tr>
+<td>Name</td>
+<td><input type="text" name="tb1"></td>
+</tr>
+<tr>
+<td>Gender</td>
+<td>
+ <input type="radio" name="gen" value="M"> Male
+ <input type="radio" name="gen" value="FM"> Female
+</td>
+</tr>
+<tr>
+<td>Address</td>
+<td>
+<textarea rows="3" cols="20"> </textarea>
+</td>
+</tr>
+<tr>
+<td>Education</td>
+<td>
+ <select name="edu">
+<option>Select</option>
+<option>10th</option>
+<option>12th</option>
+<option>Degree</option>
+<option>PG</option>
+ </select>
+</td>
+</tr>
+<tr>
+<td> Preferable Locations</td>
+<td>
+ <select name="edu" multiple="true">
+<option> Hyderabad</option>
+<option>Mumbai</option>
+<option>Banglore</option>
+<option>Delhi</option>
+ </select>
+</td>
+</tr>
+<tr>
+<td>UserName</td>
+<td><input type="text" name="uname"></td>
+</tr>
+<tr>
+<td>Password</td>
+<td><input type="password" name="pword"></td>
+</tr>
+
+<tr>
+
+<td colspan=2 align="center"><input type="submit" value="  Register   "></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
